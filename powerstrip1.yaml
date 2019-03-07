@@ -17,6 +17,7 @@ logger:
 
 web_server:
   port: 80
+  
 api:
   password: !secret hass_api
 
